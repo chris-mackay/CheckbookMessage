@@ -1,0 +1,9 @@
+c:\users\chrismac\documents\visual studio 2013\Projects\CheckbookMessage\CheckbookMessage\bin\Debug\CheckbookMessage.dll
+c:\users\chrismac\documents\visual studio 2013\Projects\CheckbookMessage\CheckbookMessage\bin\Debug\CheckbookMessage.pdb
+c:\users\chrismac\documents\visual studio 2013\Projects\CheckbookMessage\CheckbookMessage\bin\Debug\CheckbookMessage.xml
+c:\users\chrismac\documents\visual studio 2013\Projects\CheckbookMessage\CheckbookMessage\obj\Debug\CheckbookMessage.Resources.resources
+c:\users\chrismac\documents\visual studio 2013\Projects\CheckbookMessage\CheckbookMessage\obj\Debug\CheckbookMessage.vbproj.GenerateResource.Cache
+c:\users\chrismac\documents\visual studio 2013\Projects\CheckbookMessage\CheckbookMessage\obj\Debug\CheckbookMessage.dll
+c:\users\chrismac\documents\visual studio 2013\Projects\CheckbookMessage\CheckbookMessage\obj\Debug\CheckbookMessage.xml
+c:\users\chrismac\documents\visual studio 2013\Projects\CheckbookMessage\CheckbookMessage\obj\Debug\CheckbookMessage.pdb
+C:\Users\chrismac\Documents\Visual Studio 2013\Projects\CheckbookMessage\CheckbookMessage\obj\Debug\CheckbookMessage.CheckbookMessage.resources
