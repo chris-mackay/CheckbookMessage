@@ -1,5 +1,5 @@
 ﻿'    CheckbookMessage is a custom messagebox that supports two styles of text, buttons, and media sounds.
-'    Copyright(C) 2016 Christopher Mackay
+'    Copyright(C) 2018 Christopher Mackay
 
 '    This program Is free software: you can redistribute it And/Or modify
 '    it under the terms Of the GNU General Public License As published by
@@ -66,6 +66,9 @@ Public Class CheckbookMessage
 
                 Cancel_Button.DialogResult = Windows.Forms.DialogResult.OK
                 Cancel_Button.Text = "OK"
+                AcceptButton = Cancel_Button
+                Cancel_Button.TabIndex = 0
+                ActiveControl = Cancel_Button
 
             Case MsgButtons.OKCancel
 
@@ -74,6 +77,10 @@ Public Class CheckbookMessage
 
                 OK_Button.Text = "OK"
                 Cancel_Button.Text = "Cancel"
+                AcceptButton = OK_Button
+                OK_Button.TabIndex = 0
+                Cancel_Button.TabIndex = 1
+                ActiveControl = OK_Button
 
             Case MsgButtons.YesNo
 
@@ -82,6 +89,10 @@ Public Class CheckbookMessage
 
                 OK_Button.Text = "Yes"
                 Cancel_Button.Text = "No"
+                AcceptButton = OK_Button
+                OK_Button.TabIndex = 0
+                Cancel_Button.TabIndex = 1
+                ActiveControl = OK_Button
 
         End Select
 

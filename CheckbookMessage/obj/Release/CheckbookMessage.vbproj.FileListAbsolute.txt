@@ -16,3 +16,14 @@ C:\Users\chrismac\Documents\Visual Studio 2015\Projects\CheckbookMessage\Checkbo
 C:\Users\chrismac\Documents\Visual Studio 2015\Projects\CheckbookMessage\CheckbookMessage\obj\Release\CheckbookMessage.dll
 C:\Users\chrismac\Documents\Visual Studio 2015\Projects\CheckbookMessage\CheckbookMessage\obj\Release\CheckbookMessage.xml
 C:\Users\chrismac\Documents\Visual Studio 2015\Projects\CheckbookMessage\CheckbookMessage\obj\Release\CheckbookMessage.pdb
+C:\Programming\CheckbookMessage\CheckbookMessage\bin\Release\CheckbookMessage.dll
+C:\Programming\CheckbookMessage\CheckbookMessage\bin\Release\CheckbookMessage.pdb
+C:\Programming\CheckbookMessage\CheckbookMessage\bin\Release\CheckbookMessage.xml
+C:\Programming\CheckbookMessage\CheckbookMessage\obj\Release\CheckbookMessage.vbprojAssemblyReference.cache
+C:\Programming\CheckbookMessage\CheckbookMessage\obj\Release\CheckbookMessage.CheckbookMessage.resources
+C:\Programming\CheckbookMessage\CheckbookMessage\obj\Release\CheckbookMessage.Resources.resources
+C:\Programming\CheckbookMessage\CheckbookMessage\obj\Release\CheckbookMessage.vbproj.GenerateResource.cache
+C:\Programming\CheckbookMessage\CheckbookMessage\obj\Release\CheckbookMessage.vbproj.CoreCompileInputs.cache
+C:\Programming\CheckbookMessage\CheckbookMessage\obj\Release\CheckbookMessage.dll
+C:\Programming\CheckbookMessage\CheckbookMessage\obj\Release\CheckbookMessage.xml
+C:\Programming\CheckbookMessage\CheckbookMessage\obj\Release\CheckbookMessage.pdb

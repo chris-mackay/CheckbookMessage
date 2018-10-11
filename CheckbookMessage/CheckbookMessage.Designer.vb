@@ -1,5 +1,5 @@
 ﻿'    CheckbookMessage is a custom messagebox that supports two styles of text, buttons, and media sounds.
-'    Copyright(C) 2016 Christopher Mackay
+'    Copyright(C) 2018 Christopher Mackay
 
 '    This program Is free software: you can redistribute it And/Or modify
 '    it under the terms Of the GNU General Public License As published by
@@ -59,7 +59,7 @@ Partial Class CheckbookMessage
         Me.pnlWhiteSpace.Location = New System.Drawing.Point(0, 0)
         Me.pnlWhiteSpace.Name = "pnlWhiteSpace"
         Me.pnlWhiteSpace.Size = New System.Drawing.Size(383, 79)
-        Me.pnlWhiteSpace.TabIndex = 2
+        Me.pnlWhiteSpace.TabIndex = 0
         '
         'lblBodyMessage
         '
@@ -69,7 +69,7 @@ Partial Class CheckbookMessage
         Me.lblBodyMessage.MaximumSize = New System.Drawing.Size(353, 0)
         Me.lblBodyMessage.Name = "lblBodyMessage"
         Me.lblBodyMessage.Size = New System.Drawing.Size(42, 13)
-        Me.lblBodyMessage.TabIndex = 3
+        Me.lblBodyMessage.TabIndex = 1
         Me.lblBodyMessage.Text = "Sample"
         '
         'lblHeaderMessage
@@ -82,7 +82,7 @@ Partial Class CheckbookMessage
         Me.lblHeaderMessage.MaximumSize = New System.Drawing.Size(353, 0)
         Me.lblHeaderMessage.Name = "lblHeaderMessage"
         Me.lblHeaderMessage.Size = New System.Drawing.Size(62, 21)
-        Me.lblHeaderMessage.TabIndex = 2
+        Me.lblHeaderMessage.TabIndex = 0
         Me.lblHeaderMessage.Text = "Sample"
         '
         'TableLayoutPanel1
@@ -98,12 +98,11 @@ Partial Class CheckbookMessage
         Me.TableLayoutPanel1.RowCount = 1
         Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50.0!))
         Me.TableLayoutPanel1.Size = New System.Drawing.Size(146, 29)
-        Me.TableLayoutPanel1.TabIndex = 3
+        Me.TableLayoutPanel1.TabIndex = 1
         '
         'OK_Button
         '
         Me.OK_Button.Anchor = System.Windows.Forms.AnchorStyles.None
-        Me.OK_Button.DialogResult = System.Windows.Forms.DialogResult.OK
         Me.OK_Button.Location = New System.Drawing.Point(3, 3)
         Me.OK_Button.Name = "OK_Button"
         Me.OK_Button.Size = New System.Drawing.Size(67, 23)
@@ -113,7 +112,6 @@ Partial Class CheckbookMessage
         'Cancel_Button
         '
         Me.Cancel_Button.Anchor = System.Windows.Forms.AnchorStyles.None
-        Me.Cancel_Button.DialogResult = System.Windows.Forms.DialogResult.Cancel
         Me.Cancel_Button.Location = New System.Drawing.Point(76, 3)
         Me.Cancel_Button.Name = "Cancel_Button"
         Me.Cancel_Button.Size = New System.Drawing.Size(67, 23)
@@ -132,6 +130,7 @@ Partial Class CheckbookMessage
         Me.MinimizeBox = False
         Me.MinimumSize = New System.Drawing.Size(360, 157)
         Me.Name = "CheckbookMessage"
+        Me.ShowIcon = False
         Me.ShowInTaskbar = False
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent
         Me.Text = "Checkbook"

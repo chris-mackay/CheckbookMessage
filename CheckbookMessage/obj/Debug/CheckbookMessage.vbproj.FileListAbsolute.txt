@@ -7,3 +7,13 @@ c:\users\chrismac\documents\visual studio 2013\Projects\CheckbookMessage\Checkbo
 c:\users\chrismac\documents\visual studio 2013\Projects\CheckbookMessage\CheckbookMessage\obj\Debug\CheckbookMessage.xml
 c:\users\chrismac\documents\visual studio 2013\Projects\CheckbookMessage\CheckbookMessage\obj\Debug\CheckbookMessage.pdb
 C:\Users\chrismac\Documents\Visual Studio 2013\Projects\CheckbookMessage\CheckbookMessage\obj\Debug\CheckbookMessage.CheckbookMessage.resources
+C:\Programming\CheckbookMessage\CheckbookMessage\bin\Debug\CheckbookMessage.dll
+C:\Programming\CheckbookMessage\CheckbookMessage\bin\Debug\CheckbookMessage.pdb
+C:\Programming\CheckbookMessage\CheckbookMessage\bin\Debug\CheckbookMessage.xml
+C:\Programming\CheckbookMessage\CheckbookMessage\obj\Debug\CheckbookMessage.CheckbookMessage.resources
+C:\Programming\CheckbookMessage\CheckbookMessage\obj\Debug\CheckbookMessage.Resources.resources
+C:\Programming\CheckbookMessage\CheckbookMessage\obj\Debug\CheckbookMessage.vbproj.GenerateResource.cache
+C:\Programming\CheckbookMessage\CheckbookMessage\obj\Debug\CheckbookMessage.vbproj.CoreCompileInputs.cache
+C:\Programming\CheckbookMessage\CheckbookMessage\obj\Debug\CheckbookMessage.dll
+C:\Programming\CheckbookMessage\CheckbookMessage\obj\Debug\CheckbookMessage.xml
+C:\Programming\CheckbookMessage\CheckbookMessage\obj\Debug\CheckbookMessage.pdb

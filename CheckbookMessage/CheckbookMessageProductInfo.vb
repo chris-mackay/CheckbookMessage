@@ -1,5 +1,5 @@
 ﻿'    CheckbookMessage is a custom messagebox that supports two styles of text, buttons, and media sounds.
-'    Copyright(C) 2016 Christopher Mackay
+'    Copyright(C) 2018 Christopher Mackay
 
 '    This program Is free software: you can redistribute it And/Or modify
 '    it under the terms Of the GNU General Public License As published by
@@ -16,7 +16,7 @@
 
 Public Class CheckbookMessageProductInfo
 
-    Private _Version As String = "1.0"
+    Private _Version As String = "1.0.1"
     Public ReadOnly Property Version() As String
         Get
             Return _Version
